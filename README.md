@@ -9,11 +9,11 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=00599C)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate&logoColor=007ACC)&nbsp;\
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=angular)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![jQuery](https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-05122A?style=flat)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;\
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -45,7 +45,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-05122A?style=flat&logo=intellij-idea)&nbsp;
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;\
 ![Atom](https://img.shields.io/badge/Atom-05122A?style=flat&logo=atom)&nbsp;
-![Spyder](https://img.shields.io/badge/Spyder-05122A?style=flat&logo=spyder%20ide)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-05122A?style=flat&logo=apache-netbeans-ide)&nbsp;
@@ -54,3 +53,9 @@
 ![Microsoft](https://img.shields.io/badge/Microsoft-05122A?style=flat&logo=microsoft)&nbsp;
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=Raspberry-Pi)&nbsp;
 ![Ardiuno](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=white)&nbsp;
+#### Let's connect on:
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/purvamsheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/purvamsheth" height="25" width="25" /></a>
+<a width="40"></a>&nbsp;\
+<a href="mailto:shethpurvam333@gmail.com" target="_blank">
+  <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-a50fbe08c2281ffc279f17ea977ee2ef-lq" alt="Gmail" height="25" width="25" />
+</a>
