@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)
 <h1 align="center">Hi 👋, I'm Purvam Sheth</h1>
 <h3 align="center">Results-driven professional with expertise in Data Science, AI/ML, DevOps, AWS, and Full Stack Development. Proficient in building and deploying scalable applications. Strong problem-solving and analytical skills. Adept at optimizing operations and improving efficiency.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderhelloworld&label=Profile%20views&color=0e75b6&style=flat" alt="coderhelloworld" /> </p>
 
 - 💬 Ask me about **AWS, MERN, DATA SCIENCE**
@@ -17,7 +18,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderhelloworld&show_icons=true&locale=en&layout=compact" alt="coderhelloworld" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderhelloworld&" alt="coderhelloworld" /></p>
-
-
-
-
