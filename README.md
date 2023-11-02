@@ -1,2 +1,1 @@
-<h1 align="center">Hi 👋, I'm Purvam Sheth</h1>
-
+<img src="./ASSETS/PURVAMSHETH.png"/>
