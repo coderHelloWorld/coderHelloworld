@@ -54,7 +54,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=Raspberry-Pi)&nbsp;
 ![Ardiuno](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=white)&nbsp;
 #### Let's connect on:
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/purvamsheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/purvamsheth" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/purvamsheth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/purvamsheth" height="25" width="25" /></a>
 <a width="40"></a>&nbsp;\
 <a href="mailto:shethpurvam333@gmail.com" target="_blank">
   <img align="center" src="https://qph.cf2.quoracdn.net/main-qimg-a50fbe08c2281ffc279f17ea977ee2ef-lq" alt="Gmail" height="25" width="25" />
